@@ -1,0 +1,25 @@
+body {
+  min-height: 2000px;
+}
+
+.navbar a {
+  font-family: "Inter", sans-serif;
+}
+
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #ffde7d;
+  font-family: "Inter", sans-serif;
+}
+
+.jumbotron span {
+  font-weight: bold;
+}
+
+#projects {
+  background-color: #ffde7d;
+}
+
+section {
+  padding-top: 5rem;
+}
